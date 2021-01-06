@@ -1,0 +1,11 @@
+--- pkgutils-5.40.7/pkgmk.conf	2018-02-14 16:17:57.000000000 +0000
++++ pkgmk.conf	2021-01-06 20:25:58.604586555 +0000
+@@ -2,7 +2,7 @@
+ # /etc/pkgmk.conf: pkgmk(8) configuration
+ #
+ 
+-export CFLAGS="-O2 -march=x86-64 -pipe"
++export CFLAGS="-march=armv8-a+crc+simd -mtune=cortex-a72 -ftree-vectorize -O2 -pipe -fomit-frame-pointer"
+ export CXXFLAGS="${CFLAGS}"
+ 
+ # export JOBS=$(nproc)
