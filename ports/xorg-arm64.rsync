@@ -1,0 +1,3 @@
+host=crux-arm.nu
+collection=ports/crux-3.6/xorg-arm64/
+destination=/usr/ports/xorg-arm64
