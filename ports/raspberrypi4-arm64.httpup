@@ -1,0 +1,8 @@
+#
+# /etc/ports/raspberrypi4-arm64.httpup: CRUX-ARM aarch64 ports overlay for RaspberryPi 4
+#
+
+ROOT_DIR=/usr/ports/raspberrypi4-arm64
+URL=https://raw.githubusercontent.com/crux-arm/crux-ports-raspberrypi4-arm64/3.6/
+
+# End of file

@@ -1,0 +1,7 @@
+README.md
+\.git*
+^raspberrypi4\-arm64\.httpup
+*~
+\.*~
+*work
+*.pkg.*
