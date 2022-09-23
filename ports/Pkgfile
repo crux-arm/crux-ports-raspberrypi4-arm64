@@ -6,34 +6,19 @@
 
 name=ports
 version=1.6
-release=1
+release=3
 source=(http://crux.nu/files/tools/ports/$name-$version.tar.gz \
-	core.pub opt.pub xorg.pub contrib.pub \
+      	core.pub opt.pub xorg.pub contrib.pub \
         core.rsync opt.rsync xorg.rsync contrib.rsync.inactive \
-        raspberrypi4-arm64.rsync raspberrypi4-arm64.pub \
-        core-arm64.rsync core-arm64.pub \
-        opt-arm64.rsync opt-arm64.pub \
-        xorg-arm64.rsync  xorg-arm64.pub)
+        raspberrypi4-arm64.httpup raspberrypi4-arm64.pub \
+        core-arm64.httpup core-arm64.pub \
+        opt-arm64.httpup opt-arm64.pub \
+        xorg-arm64.httpup xorg-arm64.pub)
 
 build () {
   cd $name-$version
   make
   make DESTDIR=$PKG MANDIR=/usr/share/man install
 
-  install -m 0644 $SRC/core.rsync $PKG/etc/ports
-  install -m 0644 $SRC/opt.rsync $PKG/etc/ports
-  install -m 0644 $SRC/xorg.rsync $PKG/etc/ports
-  install -m 0644 $SRC/contrib.rsync.inactive $PKG/etc/ports
-  install -m 0644 $SRC/core.pub $PKG/etc/ports
-  install -m 0644 $SRC/opt.pub $PKG/etc/ports
-  install -m 0644 $SRC/xorg.pub $PKG/etc/ports
-  install -m 0644 $SRC/contrib.pub $PKG/etc/ports
-  install -m 0644 $SRC/raspberrypi4-arm64.rsync $PKG/etc/ports
-  install -m 0644 $SRC/raspberrypi4-arm64.pub $PKG/etc/ports
-  install -m 0644 $SRC/core-arm64.rsync $PKG/etc/ports
-  install -m 0644 $SRC/core-arm64.pub $PKG/etc/ports
-  install -m 0644 $SRC/opt-arm64.rsync $PKG/etc/ports
-  install -m 0644 $SRC/opt-arm64.pub $PKG/etc/ports
-  install -m 0644 $SRC/xorg-arm64.rsync $PKG/etc/ports
-  install -m 0644 $SRC/xorg-arm64.pub $PKG/etc/ports
+  install -m 0644 $SRC/*.{httpup,pub,rsync,inactive} $PKG/etc/ports
 }

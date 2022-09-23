@@ -1,0 +1,17 @@
+804bb419e539a70ad80e4c03df3c3411  contrib.pub
+a9f83bf0fedfe89317a4cce1c5ccfaad  contrib.rsync.inactive
+d3cf27db40e3d66f29cb498b669174f1  core-arm64.httpup
+3efeabfbd7104b1c566b604f802ef0c0  core-arm64.pub
+b8dd0aad383810cad920d6548cd1cb56  core.pub
+a2ecd86c4d7037fc250d1e84775b878c  core.rsync
+a69f6dee87a7bd8e6bb33ffd19067ee9  opt-arm64.httpup
+246bdcd2c5d85192fc45e320174fb121  opt-arm64.pub
+0d1f1fde50a9bd743d9cac6b235f038c  opt.pub
+0dcf25991463d9582b66aca9563dad9d  opt.rsync
+902e3ddb9b4930975c7edb5c3c749c8c  ports-1.6.tar.gz
+1a8776168fad5e07e5416ea69cd5d2a2  raspberrypi4-arm64.httpup
+0e5877352d257fed056c1f5cfb4b6581  raspberrypi4-arm64.pub
+5d1579e032797132d238db76b2392635  xorg-arm64.httpup
+c56a20ef43a22c8e294d850935f80acd  xorg-arm64.pub
+69927e5d0ae5dc3455faeaac916c4db2  xorg.pub
+ee9093b54411528e7a7a57c2cbd53cc8  xorg.rsync
