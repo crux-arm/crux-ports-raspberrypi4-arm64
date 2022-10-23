@@ -3,6 +3,6 @@
 #
 
 ROOT_DIR=/usr/ports/raspberrypi4-arm64
-URL=https://raw.githubusercontent.com/crux-arm/crux-ports-raspberrypi4-arm64/3.6/
+URL=https://raw.githubusercontent.com/crux-arm/crux-ports-raspberrypi4-arm64/3.7/
 
 # End of file

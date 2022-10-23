@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/raspberrypi4-arm64.pub
-RWTd3JU7yDA/Kdd+2FKVSR6OM3huU+383oy7HFrWcj9ge2+ZxRNG9IRPeoWCYIkaQvXcAXUz97BXULhYdVHIi849vlClYLmU8gk=
-SHA256 (Pkgfile) = 584806ef17a01d25735029be7d615dbcde72f0ae7fd2e3dbe61f02ca403b6477
-SHA256 (.footprint) = e7d863393a07a29b512a2b627a65f731d8896bf0ee75cf430a9b1423716ae437
-SHA256 (pkgutils-5.40.7.tar.xz) = ee9e3e7258983ffabe5959736e8f029c02b0ea1037b2bb588a88daafcda0fafc
-SHA256 (pkgmk.conf.patch) = 1d4eb90d87a67c23b7fcf0c5c69305080537d7811b96b4218f293537ca9dc9cf
+RWRHsChDKctAK7Gyxzqbwpj+cKn4qpELsrSOUKzRrMHDK1qpqeQHA7x5eiHm37tdKdrKEPBn4TrfN7PjgTG6JoQNrXzjldYIowA=
+SHA256 (Pkgfile) = 6b5339e8964069ce04ebe972e5250e26635c2bcb911fe7d74b4a926f6fe420e9
+SHA256 (.footprint) = 7d143f18f63bba5569d729eefd0d0f04ae4b0539f8bd71f9cfd6955b9e7c639d
+SHA256 (pkgutils-5.40.9.tar.xz) = d2dd8c9af4ee14016480494aa1db12b0d211befbf3450772c602ff3a54f1a49e
+SHA256 (pkgmk.conf.patch) = b55d125fb273e22f8d81ae0e43435f09bfea583757423622aeb38edf637ee211

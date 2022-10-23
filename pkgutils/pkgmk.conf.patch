@@ -1,5 +1,5 @@
---- pkgutils-5.40.7/pkgmk.conf	2018-02-14 16:17:57.000000000 +0000
-+++ pkgmk.conf	2021-01-06 20:25:58.604586555 +0000
+--- pkgutils-5.40.9/pkgmk.conf.orig	2022-10-21 15:35:15.850156005 +0000
++++ pkgutils-5.40.9/pkgmk.conf	2022-10-21 15:35:33.350156013 +0000
 @@ -2,7 +2,7 @@
  # /etc/pkgmk.conf: pkgmk(8) configuration
  #
