@@ -30,7 +30,6 @@ f:441330fe7eb6970873d287b0d38f83f6:ports/opt.rsync
 f:a60a2b3a6d9748aedac962dca3b2d822:ports/xorg-arm64.httpup
 f:51287f2eaf881f59697cff014f3a1a68:ports/raspberrypi4-arm64.pub
 f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
-f:6e11c72582b9cddfd86666f9d4147e31:ports/.md5sum
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
 f:3a2334a0aab4f8cf4be974545aa4f2d3:ports/.signature
 f:b8dd0aad383810cad920d6548cd1cb56:ports/core.pub
