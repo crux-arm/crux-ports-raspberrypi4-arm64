@@ -2,9 +2,9 @@ d:prt-get
 d:pkgutils
 d:ports
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
-f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
+f:ac750b56369121ca6aad64dd4c03671b:prt-get/prt-get.aliases
 f:e8f2869296d798a1bd08398c51fbedc6:prt-get/prt-get.conf
-f:1099817bc8c0f3c6f59d9b085151db40:prt-get/.signature
+f:7fac9fc5288c136646aba905ddf53b11:prt-get/.signature
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:d32239bcb673463ab874e80d47fae504:COPYING
