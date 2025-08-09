@@ -8,7 +8,7 @@ f:bb4b191b95145be09a1ca0687c3fbb86:pkgutils/Pkgfile
 f:018a0b78f1c6a8b3aa99418d006d8cdd:ports/opt-arm64.rsync
 f:1c52a4d18e7f8a3ea4d3123021fedbc8:ports/xorg-arm64.rsync
 f:b8dd0aad383810cad920d6548cd1cb56:ports/core.pub
-f:5160b1c9934f05190963f792d3c1b690:ports/.signature
+f:dd1580703b34aaaeba906ab1b9196784:ports/.signature
 f:d9ed39027d8c21561ac04d0e354dcf4f:ports/raspberrypi4-arm64.pub
 f:ffcfbdbd1979f51825fa796a6296d1ab:ports/contrib.rsync.inactive
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
@@ -21,7 +21,7 @@ f:c56a20ef43a22c8e294d850935f80acd:ports/xorg-arm64.pub
 f:3efeabfbd7104b1c566b604f802ef0c0:ports/core-arm64.pub
 f:c68420edfb1d4d86ddd8a062967a5550:ports/raspberrypi4-arm64.rsync
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
-f:c9039683ee3e5c2be14bf2f5ad4f5379:ports/Pkgfile
+f:c6c44214ad7cade400c9ab001f8ff515:ports/Pkgfile
 f:92891482d508900cd6208bdad41f549d:ports/opt.rsync
 f:9a7ec7bdf5155fbedb02b35e50420cfa:ports/core.rsync
 f:7fac9fc5288c136646aba905ddf53b11:prt-get/.signature
